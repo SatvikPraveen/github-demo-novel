@@ -1,0 +1,8 @@
+This is the chapter1 of my first novel.
+The book is narrated by Nick Carraway, 
+a Yale University graduate from the Midwest 
+who moves to New York after World War I to pursue 
+a career in bonds. He recounts the events of 
+the summer he spent in the East two years later, 
+reconstructing his story through a series of 
+flashbacks not always told in chronological order.

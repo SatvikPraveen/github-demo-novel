@@ -1,2 +1,8 @@
 chapter1
--we meet Nick, Tom, Daisy, and Jordon
+-we meet Nick, Tom, Daisy, and jordon
+The Great Gatsby, third novel by F. Scott Fitzgerald, 
+published in 1925 by Charles Scribner’s Sons. Set in 
+Jazz Age New York, the novel tells the tragic story of 
+Jay Gatsby, a self-made millionaire, and 
+his pursuit of Daisy Buchanan, a wealthy young woman 
+whom he loved in his youth.
